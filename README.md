@@ -1,7 +1,15 @@
 <div align="center" style="user-select: none;">
 	<div align="center">
-		<img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true&theme=dark"/>
-		<img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact&theme=dark"/>
+		<picture>
+		  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+		  <source srcset="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true" media="(prefers-color-scheme: light)"/>
+		  <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=fernpi&show_icons=true" />
+		</picture>
+		<picture>
+		  <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact&theme=dark" media="(prefers-color-scheme: dark)"/>
+		  <source srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact" media="(prefers-color-scheme: light)"/>
+		  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernpi&layout=compact&theme=dark" />
+		</picture>
 	</div>
 	<div>
 		<picture>
@@ -12,11 +20,11 @@
 	</div>
 	<br>
 	<div>
-		<img height="60" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/rust.svg">
-		<img height="60" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/c.svg">
-		<img height="60" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/cplusplus.svg">
-		<img height="60" src="https://raw.githubusercontent.com/fernpi/autergame/main/svgs/javascript.svg">
-		<img height="60" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/html5.svg">
-		<img height="60" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/css3.svg">
+		<img height="80" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/rust.svg">
+		<img height="80" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/c.svg">
+		<img height="80" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/cplusplus.svg">
+		<img height="80" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/javascript.svg">
+		<img height="80" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/html5.svg">
+		<img height="80" src="https://raw.githubusercontent.com/fernpi/fernpi/main/svgs/css3.svg">
 	</div>
 </div>
